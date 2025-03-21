@@ -1,5 +1,6 @@
 #ifndef STORY_H
 #define STORY_H
+#include <iostream>
 
 #include <string>
 using namespace std;
@@ -15,6 +16,10 @@ public:
 
     // Parameterized constructor
     Story(string desc, int num, int leftNum, int rightNum);
+
+    void print() {
+        std::cout<<description<<" "<<eventNumber<<" "<<leftEventNumber<<" "<<rightEventNumber<<std::endl;
+    }
 };
 
 #endif // STORY_H

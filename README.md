@@ -55,7 +55,7 @@ Example:
 
 ## **6. Debugging Process (Errors & Fixes)**
 (Describe one or more debugging challenges you faced and how you fixed them.)
-
+I was not able to load the file so I had to provide the complete path of the file which seemed to work.
 Example:
 > Initially, my program was crashing when trying to access an uninitialized node. I realized it was because I was not properly checking for `nullptr` before accessing child nodes, so I added a check to prevent accessing uninitialized memory.
 
