@@ -25,9 +25,9 @@ public:
 
     // TODO: Function to load story data from a text file and build the binary tree
     void loadStoryFromFile(const std::string& filename, char delimiter) {
-        ifstream infile;
+        std::ifstream infile;
         std::string line;
-        infile.open(filename);
+        infile.open("C:/code/DataStructures/programming-assignment-2-Aron-K-Joseph/read.txt");
 
 
         if (infile) {
@@ -123,8 +123,11 @@ public:
         int response = 3;
         while (curr != nullptr) {
             cout<<curr->data.description<<endl;
+            if (curr->left==nullptr) {
+                break;
+            }
             while ((response !=1)&&(response !=2)) { //if it is not either r or it keeps on iterating
-                cout<<"Type '1' to go left and '2' to go right." <<endl;
+                cout<<"Do" <<curr->left->data.description<<"(1) or Do"<<curr->right->data.description<<"(2)"<<endl;
                 std::cin>>response;
                 if (response == 1) {
                     curr = curr->left;

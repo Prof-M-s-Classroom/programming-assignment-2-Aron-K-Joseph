@@ -1,6 +1,41 @@
-1 | You wake up in a forest clearing. There are two paths. | 2 | 3
-2 | You follow the path to the left and encounter a river. | 4 | 5
-3 | You go right and find an old cabin. | 5 | 6
-4 | You swim across the river and find a treasure chest. | -1 | -1
-5 | You find a hidden passageway that leads to a secret room. | -1 | -1
-6 | The cabin is empty. You find a trapdoor leading downwards. | -1 | -1
+1 | You wake up and realize you are in Kenya Africa.  | 2 | 3
+2 | You go to Euroupe. | 4 | 5
+3 | You stay in Africa. | 6 | 7
+4 | You go to France. | 8 | 9
+5 | You go to Spain. | 9 | 10
+6 | You go to the city. | 11 | 12
+7 | You go to the savannah. | 13 | 14
+8 | You go to Paris. | 15  | 16
+9 | You go underground. | 17 | 18
+10 | You go to Bunol. | 18 | 19
+11 | You go to the store. | 18 | 20
+12 | You go to the hotel. | 18 | 21
+13 | You go sit under a tree. | 18 | 22
+14 | You go near the lion. | 18 | 23
+15 | Get on top of the eiffel tower. | 24 | 25
+16 | You eat food. | 26 | 27
+17 | You go all the way into the mantle of the earth. | 28 | 29
+18 | You die to unexpected events. | 30 | 31
+19 | You participate in the tomatina. | 32 | 33
+20 | You slip a chocolate into your pocket. | 34 | 35
+21 | You watch T.V. | 36 | 37
+22 | You Sleep. | 38 | 39
+23 | You go nearer to the lion. | 40 | 41
+24 | You jump up and down. | -1 | -1
+25 | You backflip. | -1 | -1
+26 | You enjoy it. | -1 | -1
+27 | You get food poisoning. | -1 | -1
+28 | You evaporate. | -1 | -1
+29 | You develop resistance to the heat. | -1 | -1
+30 | You Respawn | -1 | -1
+31 | You Title Screen. | -1 | -1
+32 | You get tomatoes on your shirt. | -1 | -1
+33 | You dodge the tomatoes. | -1 | -1
+34 | You get away with it. | -1 | -1
+35 | You get caught. | -1 | -1
+36 | You off the T.V. | -1 | -1
+37 | You watch netflix. | -1 | -1
+38 | You wake up. | -1 | -1
+39 | You dont wake up again. | -1 | -1
+40 | You befriend the lion. | -1 | -1
+41 | You strike the lion. | -1 | -1
