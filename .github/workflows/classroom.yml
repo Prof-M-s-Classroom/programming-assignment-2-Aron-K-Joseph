@@ -29,7 +29,7 @@ jobs:
         test-name: File Structure Check
         setup-command: ''
         command: 'if [[ -f "main.cpp" && -f "Story.cpp" && -f "GameDecisionTree.h"
-          && -f "Node.h" && -f "Story.h" && -f "story.txt" ]]; then     echo "All
+          && -f "Node.h" && -f "Story.h" && -f "read.txt" ]]; then     echo "All
           required files are present."     exit 0 else     echo "Error: One or more
           required files are missing."     exit 1 fi'
         timeout: 10

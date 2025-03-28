@@ -1,8 +1,9 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jIKk4bke)
 # CS210 Data Structures SP25
 ## Programming Assignment 2: Text-Based RPG Using Decision Trees
 
-### **Student Name:** `[Your Name]`  
-### **Student ID:** `[Your ID]`  
+### **Student Name:** `Aron Joseph`  
+### **Student ID:** `132267197`  
 
 ---
 
@@ -54,7 +55,7 @@ Example:
 
 ## **6. Debugging Process (Errors & Fixes)**
 (Describe one or more debugging challenges you faced and how you fixed them.)
-
+I was not able to load the file so I had to provide the complete path of the file which seemed to work.
 Example:
 > Initially, my program was crashing when trying to access an uninitialized node. I realized it was because I was not properly checking for `nullptr` before accessing child nodes, so I added a check to prevent accessing uninitialized memory.
 
