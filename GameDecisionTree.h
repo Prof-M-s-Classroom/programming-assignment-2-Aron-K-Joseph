@@ -27,7 +27,7 @@ public:
     void loadStoryFromFile(const std::string& filename, char delimiter) {
         std::ifstream infile;
         std::string line;
-        infile.open("C:/code/DataStructures/programming-assignment-2-Aron-K-Joseph/read.txt");
+        infile.open(filename);
 
 
         if (infile) {
