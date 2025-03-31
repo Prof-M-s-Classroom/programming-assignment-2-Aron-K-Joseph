@@ -13,7 +13,7 @@ int main() {
 
     // Start the game
     myGame.playGame();
-    cout<<"Hello"<<endl;
+
 
     return 0;
 }
