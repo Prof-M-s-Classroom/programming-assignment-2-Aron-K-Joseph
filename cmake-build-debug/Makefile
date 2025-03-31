@@ -56,10 +56,10 @@ RM = "C:\Program Files\CLion 2024.3.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\code\DataStructures\Joseph_AronRPG
+CMAKE_SOURCE_DIR = C:\Users\aronj\OneDrive\Desktop\CS210\programming-assignment-2-Aron-K-Joseph
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\code\DataStructures\Joseph_AronRPG\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\aronj\OneDrive\Desktop\CS210\programming-assignment-2-Aron-K-Joseph\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\code\DataStructures\Joseph_AronRPG\cmake-build-debug\CMakeFiles C:\code\DataStructures\Joseph_AronRPG\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\aronj\OneDrive\Desktop\CS210\programming-assignment-2-Aron-K-Joseph\cmake-build-debug\CMakeFiles C:\Users\aronj\OneDrive\Desktop\CS210\programming-assignment-2-Aron-K-Joseph\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\code\DataStructures\Joseph_AronRPG\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\aronj\OneDrive\Desktop\CS210\programming-assignment-2-Aron-K-Joseph\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -116,65 +116,65 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named CS210PA2
+# Target rules for targets named Joseph_AronRPG
 
 # Build rule for target.
-CS210PA2: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CS210PA2
-.PHONY : CS210PA2
+Joseph_AronRPG: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Joseph_AronRPG
+.PHONY : Joseph_AronRPG
 
 # fast build rule for target.
-CS210PA2/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CS210PA2.dir\build.make CMakeFiles/CS210PA2.dir/build
-.PHONY : CS210PA2/fast
+Joseph_AronRPG/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Joseph_AronRPG.dir\build.make CMakeFiles/Joseph_AronRPG.dir/build
+.PHONY : Joseph_AronRPG/fast
 
-Story.obj: Story.cpp.obj
-.PHONY : Story.obj
-
-# target to build an object file
-Story.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CS210PA2.dir\build.make CMakeFiles/CS210PA2.dir/Story.cpp.obj
-.PHONY : Story.cpp.obj
-
-Story.i: Story.cpp.i
-.PHONY : Story.i
-
-# target to preprocess a source file
-Story.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CS210PA2.dir\build.make CMakeFiles/CS210PA2.dir/Story.cpp.i
-.PHONY : Story.cpp.i
-
-Story.s: Story.cpp.s
-.PHONY : Story.s
-
-# target to generate assembly for a file
-Story.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CS210PA2.dir\build.make CMakeFiles/CS210PA2.dir/Story.cpp.s
-.PHONY : Story.cpp.s
-
-main.obj: main.cpp.obj
-.PHONY : main.obj
+Joseph_AronRPG/Story.obj: Joseph_AronRPG/Story.cpp.obj
+.PHONY : Joseph_AronRPG/Story.obj
 
 # target to build an object file
-main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CS210PA2.dir\build.make CMakeFiles/CS210PA2.dir/main.cpp.obj
-.PHONY : main.cpp.obj
+Joseph_AronRPG/Story.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Joseph_AronRPG.dir\build.make CMakeFiles/Joseph_AronRPG.dir/Joseph_AronRPG/Story.cpp.obj
+.PHONY : Joseph_AronRPG/Story.cpp.obj
 
-main.i: main.cpp.i
-.PHONY : main.i
+Joseph_AronRPG/Story.i: Joseph_AronRPG/Story.cpp.i
+.PHONY : Joseph_AronRPG/Story.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CS210PA2.dir\build.make CMakeFiles/CS210PA2.dir/main.cpp.i
-.PHONY : main.cpp.i
+Joseph_AronRPG/Story.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Joseph_AronRPG.dir\build.make CMakeFiles/Joseph_AronRPG.dir/Joseph_AronRPG/Story.cpp.i
+.PHONY : Joseph_AronRPG/Story.cpp.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+Joseph_AronRPG/Story.s: Joseph_AronRPG/Story.cpp.s
+.PHONY : Joseph_AronRPG/Story.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CS210PA2.dir\build.make CMakeFiles/CS210PA2.dir/main.cpp.s
-.PHONY : main.cpp.s
+Joseph_AronRPG/Story.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Joseph_AronRPG.dir\build.make CMakeFiles/Joseph_AronRPG.dir/Joseph_AronRPG/Story.cpp.s
+.PHONY : Joseph_AronRPG/Story.cpp.s
+
+Joseph_AronRPG/main.obj: Joseph_AronRPG/main.cpp.obj
+.PHONY : Joseph_AronRPG/main.obj
+
+# target to build an object file
+Joseph_AronRPG/main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Joseph_AronRPG.dir\build.make CMakeFiles/Joseph_AronRPG.dir/Joseph_AronRPG/main.cpp.obj
+.PHONY : Joseph_AronRPG/main.cpp.obj
+
+Joseph_AronRPG/main.i: Joseph_AronRPG/main.cpp.i
+.PHONY : Joseph_AronRPG/main.i
+
+# target to preprocess a source file
+Joseph_AronRPG/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Joseph_AronRPG.dir\build.make CMakeFiles/Joseph_AronRPG.dir/Joseph_AronRPG/main.cpp.i
+.PHONY : Joseph_AronRPG/main.cpp.i
+
+Joseph_AronRPG/main.s: Joseph_AronRPG/main.cpp.s
+.PHONY : Joseph_AronRPG/main.s
+
+# target to generate assembly for a file
+Joseph_AronRPG/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Joseph_AronRPG.dir\build.make CMakeFiles/Joseph_AronRPG.dir/Joseph_AronRPG/main.cpp.s
+.PHONY : Joseph_AronRPG/main.cpp.s
 
 # Help Target
 help:
@@ -184,13 +184,13 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... CS210PA2
-	@echo ... Story.obj
-	@echo ... Story.i
-	@echo ... Story.s
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... Joseph_AronRPG
+	@echo ... Joseph_AronRPG/Story.obj
+	@echo ... Joseph_AronRPG/Story.i
+	@echo ... Joseph_AronRPG/Story.s
+	@echo ... Joseph_AronRPG/main.obj
+	@echo ... Joseph_AronRPG/main.i
+	@echo ... Joseph_AronRPG/main.s
 .PHONY : help
 
 
