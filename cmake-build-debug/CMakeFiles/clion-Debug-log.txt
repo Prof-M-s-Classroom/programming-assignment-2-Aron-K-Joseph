@@ -1,4 +1,4 @@
-"C:\Program Files\CLion 2024.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S C:\code\DataStructures\programming-assignment-2-Aron-K-Joseph -B C:\code\DataStructures\programming-assignment-2-Aron-K-Joseph\cmake-build-debug
+"C:\Program Files\CLion 2024.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S C:\code\DataStructures\Joseph_AronRPG -B C:\code\DataStructures\Joseph_AronRPG\cmake-build-debug
 -- The C compiler identification is GNU 13.1.0
 -- The CXX compiler identification is GNU 13.1.0
 -- Detecting C compiler ABI info
@@ -11,6 +11,6 @@
 -- Check for working CXX compiler: C:/Program Files/CLion 2024.3.2/bin/mingw/bin/g++.exe - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Configuring done (3.5s)
+-- Configuring done (6.5s)
 -- Generating done (0.1s)
--- Build files have been written to: C:/code/DataStructures/programming-assignment-2-Aron-K-Joseph/cmake-build-debug
+-- Build files have been written to: C:/code/DataStructures/Joseph_AronRPG/cmake-build-debug

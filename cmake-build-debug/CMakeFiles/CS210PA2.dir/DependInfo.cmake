@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/code/DataStructures/programming-assignment-2-Aron-K-Joseph/Story.cpp" "CMakeFiles/CS210PA2.dir/Story.cpp.obj" "gcc" "CMakeFiles/CS210PA2.dir/Story.cpp.obj.d"
-  "C:/code/DataStructures/programming-assignment-2-Aron-K-Joseph/main.cpp" "CMakeFiles/CS210PA2.dir/main.cpp.obj" "gcc" "CMakeFiles/CS210PA2.dir/main.cpp.obj.d"
+  "C:/code/DataStructures/Joseph_AronRPG/Story.cpp" "CMakeFiles/CS210PA2.dir/Story.cpp.obj" "gcc" "CMakeFiles/CS210PA2.dir/Story.cpp.obj.d"
+  "C:/code/DataStructures/Joseph_AronRPG/main.cpp" "CMakeFiles/CS210PA2.dir/main.cpp.obj" "gcc" "CMakeFiles/CS210PA2.dir/main.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

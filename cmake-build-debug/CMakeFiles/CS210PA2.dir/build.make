@@ -52,10 +52,10 @@ RM = "C:\Program Files\CLion 2024.3.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\code\DataStructures\programming-assignment-2-Aron-K-Joseph
+CMAKE_SOURCE_DIR = C:\code\DataStructures\Joseph_AronRPG
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\code\DataStructures\programming-assignment-2-Aron-K-Joseph\cmake-build-debug
+CMAKE_BINARY_DIR = C:\code\DataStructures\Joseph_AronRPG\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/CS210PA2.dir/depend.make
@@ -70,33 +70,33 @@ include CMakeFiles/CS210PA2.dir/flags.make
 
 CMakeFiles/CS210PA2.dir/main.cpp.obj: CMakeFiles/CS210PA2.dir/flags.make
 CMakeFiles/CS210PA2.dir/main.cpp.obj: CMakeFiles/CS210PA2.dir/includes_CXX.rsp
-CMakeFiles/CS210PA2.dir/main.cpp.obj: C:/code/DataStructures/programming-assignment-2-Aron-K-Joseph/main.cpp
+CMakeFiles/CS210PA2.dir/main.cpp.obj: C:/code/DataStructures/Joseph_AronRPG/main.cpp
 CMakeFiles/CS210PA2.dir/main.cpp.obj: CMakeFiles/CS210PA2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\code\DataStructures\programming-assignment-2-Aron-K-Joseph\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CS210PA2.dir/main.cpp.obj"
-	"C:\PROGRA~1\CLion 2024.3.2\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CS210PA2.dir/main.cpp.obj -MF CMakeFiles\CS210PA2.dir\main.cpp.obj.d -o CMakeFiles\CS210PA2.dir\main.cpp.obj -c C:\code\DataStructures\programming-assignment-2-Aron-K-Joseph\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\code\DataStructures\Joseph_AronRPG\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CS210PA2.dir/main.cpp.obj"
+	"C:\PROGRA~1\CLion 2024.3.2\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CS210PA2.dir/main.cpp.obj -MF CMakeFiles\CS210PA2.dir\main.cpp.obj.d -o CMakeFiles\CS210PA2.dir\main.cpp.obj -c C:\code\DataStructures\Joseph_AronRPG\main.cpp
 
 CMakeFiles/CS210PA2.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CS210PA2.dir/main.cpp.i"
-	"C:\PROGRA~1\CLion 2024.3.2\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\code\DataStructures\programming-assignment-2-Aron-K-Joseph\main.cpp > CMakeFiles\CS210PA2.dir\main.cpp.i
+	"C:\PROGRA~1\CLion 2024.3.2\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\code\DataStructures\Joseph_AronRPG\main.cpp > CMakeFiles\CS210PA2.dir\main.cpp.i
 
 CMakeFiles/CS210PA2.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CS210PA2.dir/main.cpp.s"
-	"C:\PROGRA~1\CLion 2024.3.2\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\code\DataStructures\programming-assignment-2-Aron-K-Joseph\main.cpp -o CMakeFiles\CS210PA2.dir\main.cpp.s
+	"C:\PROGRA~1\CLion 2024.3.2\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\code\DataStructures\Joseph_AronRPG\main.cpp -o CMakeFiles\CS210PA2.dir\main.cpp.s
 
 CMakeFiles/CS210PA2.dir/Story.cpp.obj: CMakeFiles/CS210PA2.dir/flags.make
 CMakeFiles/CS210PA2.dir/Story.cpp.obj: CMakeFiles/CS210PA2.dir/includes_CXX.rsp
-CMakeFiles/CS210PA2.dir/Story.cpp.obj: C:/code/DataStructures/programming-assignment-2-Aron-K-Joseph/Story.cpp
+CMakeFiles/CS210PA2.dir/Story.cpp.obj: C:/code/DataStructures/Joseph_AronRPG/Story.cpp
 CMakeFiles/CS210PA2.dir/Story.cpp.obj: CMakeFiles/CS210PA2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\code\DataStructures\programming-assignment-2-Aron-K-Joseph\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CS210PA2.dir/Story.cpp.obj"
-	"C:\PROGRA~1\CLion 2024.3.2\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CS210PA2.dir/Story.cpp.obj -MF CMakeFiles\CS210PA2.dir\Story.cpp.obj.d -o CMakeFiles\CS210PA2.dir\Story.cpp.obj -c C:\code\DataStructures\programming-assignment-2-Aron-K-Joseph\Story.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\code\DataStructures\Joseph_AronRPG\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CS210PA2.dir/Story.cpp.obj"
+	"C:\PROGRA~1\CLion 2024.3.2\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CS210PA2.dir/Story.cpp.obj -MF CMakeFiles\CS210PA2.dir\Story.cpp.obj.d -o CMakeFiles\CS210PA2.dir\Story.cpp.obj -c C:\code\DataStructures\Joseph_AronRPG\Story.cpp
 
 CMakeFiles/CS210PA2.dir/Story.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CS210PA2.dir/Story.cpp.i"
-	"C:\PROGRA~1\CLion 2024.3.2\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\code\DataStructures\programming-assignment-2-Aron-K-Joseph\Story.cpp > CMakeFiles\CS210PA2.dir\Story.cpp.i
+	"C:\PROGRA~1\CLion 2024.3.2\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\code\DataStructures\Joseph_AronRPG\Story.cpp > CMakeFiles\CS210PA2.dir\Story.cpp.i
 
 CMakeFiles/CS210PA2.dir/Story.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CS210PA2.dir/Story.cpp.s"
-	"C:\PROGRA~1\CLion 2024.3.2\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\code\DataStructures\programming-assignment-2-Aron-K-Joseph\Story.cpp -o CMakeFiles\CS210PA2.dir\Story.cpp.s
+	"C:\PROGRA~1\CLion 2024.3.2\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\code\DataStructures\Joseph_AronRPG\Story.cpp -o CMakeFiles\CS210PA2.dir\Story.cpp.s
 
 # Object files for target CS210PA2
 CS210PA2_OBJECTS = \
@@ -112,7 +112,7 @@ CS210PA2.exe: CMakeFiles/CS210PA2.dir/build.make
 CS210PA2.exe: CMakeFiles/CS210PA2.dir/linkLibs.rsp
 CS210PA2.exe: CMakeFiles/CS210PA2.dir/objects1.rsp
 CS210PA2.exe: CMakeFiles/CS210PA2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\code\DataStructures\programming-assignment-2-Aron-K-Joseph\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable CS210PA2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\code\DataStructures\Joseph_AronRPG\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable CS210PA2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CS210PA2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -124,6 +124,6 @@ CMakeFiles/CS210PA2.dir/clean:
 .PHONY : CMakeFiles/CS210PA2.dir/clean
 
 CMakeFiles/CS210PA2.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\code\DataStructures\programming-assignment-2-Aron-K-Joseph C:\code\DataStructures\programming-assignment-2-Aron-K-Joseph C:\code\DataStructures\programming-assignment-2-Aron-K-Joseph\cmake-build-debug C:\code\DataStructures\programming-assignment-2-Aron-K-Joseph\cmake-build-debug C:\code\DataStructures\programming-assignment-2-Aron-K-Joseph\cmake-build-debug\CMakeFiles\CS210PA2.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\code\DataStructures\Joseph_AronRPG C:\code\DataStructures\Joseph_AronRPG C:\code\DataStructures\Joseph_AronRPG\cmake-build-debug C:\code\DataStructures\Joseph_AronRPG\cmake-build-debug C:\code\DataStructures\Joseph_AronRPG\cmake-build-debug\CMakeFiles\CS210PA2.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/CS210PA2.dir/depend
 
