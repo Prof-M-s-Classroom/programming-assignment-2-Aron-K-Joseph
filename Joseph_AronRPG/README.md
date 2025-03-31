@@ -77,7 +77,8 @@ and traversing through it]`
 ## **6. Debugging Process (Errors & Fixes)**
 (Describe one or more debugging challenges you faced and how you fixed them.)
 
--I was not able to load the file so I had to provide the complete path of the file which seemed to work.
+-I was not able to load the file so I had to provide the complete path of the file which seemed to work. But later I 
+realized that the txt file needed to be in the cmake-build-debug folder because when main runs thats where it looks.
 
 ---
 

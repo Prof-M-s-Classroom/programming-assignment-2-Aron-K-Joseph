@@ -5,9 +5,8 @@ using namespace std;
 int main() {
     GameDecisionTree<Story> myGame;
 
-    string filename = "C:/Users/aronj/OneDrive/Desktop/CS210/programming-assignment-2-Aron-K-Joseph/Joseph_AronRPG/read.txt";  // Specify the input file
+    string filename = "read.txt";
     char delimiter = '|';                // '|' is the delimiter, change if needed
-
     // Load the story data from the file
     myGame.loadStoryFromFile(filename, delimiter);
 
